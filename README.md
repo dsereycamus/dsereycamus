@@ -20,6 +20,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dsereycamus&show_icons=true&theme=light&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <!--   
+<a href="mailto:dsereycamus@gmail.com"><img src="https://img.shields.io/badge/-dsereycamus@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 **Github Stats:**
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsereycamus&count_private=true&theme=ligth">
