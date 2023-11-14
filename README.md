@@ -22,16 +22,16 @@
 </p>
 
 <h2>Languages and Tools💻🛠</h2>
-<img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5"></img>
-<img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3"></img>
-<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"></img>
-<img src="https://img.shields.io/badge/-React-000?&logo=React"></img>
-<img src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js"></img>
-<img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB"></img>
-<img src="https://img.shields.io/badge/-Postman-000?&logo=Postman"></img>
-<img src="https://img.shields.io/badge/-Git-000?&logo=Git"></img>
-<img src="https://img.shields.io/badge/-Jira-000?&logo=Jira"></img>
-<img src="https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code"></img>
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-ExpressJS-000000?logo=Express&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?&logo=PostmanColor=white"></img>
+<img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual-Studio-CodeColor=white"></img>
 <br>
 
 <h2>GitHub Stats</h2>
