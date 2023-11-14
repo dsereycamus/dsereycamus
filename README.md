@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 <!--
 **<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dsereycamus&hide=stars&show_icons=true&theme=ligth&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsereycamus&count_private=true&theme=ligth">
 </p>-->
