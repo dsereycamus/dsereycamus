@@ -20,6 +20,8 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </p>
+
+<h2>Languages and Tools💻🛠</h2>
 <br>
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dsereycamus&theme=light" />
