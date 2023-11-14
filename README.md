@@ -10,7 +10,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/dserey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:dsereycamus@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href=""
+<a target="_blank" href="https://github.com/dsereycamus"
 ><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=Github&logoColor=white"></img></a>
   <a href="https://instagram.com/dnla_sry" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
