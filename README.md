@@ -27,12 +27,10 @@ Here are some ideas to get you started:
 <a target="_blank" href=""
 ><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=Github&logoColor=white"></img></a>
 </p>
-
-   
 <!--   
 **Github Stats:**
-
-
-**<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsereycamus&count_private=true&theme=ligth">
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsereycamus&count_private=true&theme=ligth">
 </p>-->
+   
+
