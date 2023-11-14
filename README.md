@@ -10,7 +10,6 @@
 
 <br>
 <h2>Get in Touch! 📬</h2>
-<br>
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/dserey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:dsereycamus@gmail.com"
@@ -21,6 +20,7 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </p>
+<br>
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dsereycamus&theme=light" />
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dsereycamus&show_icons=true&theme=light&locale=en" alt="anii693" /></p>
