@@ -22,7 +22,18 @@
 </p>
 
 <h2>Languages and Tools💻🛠</h2>
+<img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5"></img>
+<img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3"></img>
+<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"></img>
+<img src="https://img.shields.io/badge/-React-000?&logo=React"></img>
+<img src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js"></img>
+<img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB"></img>
+<img src="https://img.shields.io/badge/-Postman-000?&logo=Postman"></img>
+<img src="https://img.shields.io/badge/-Git-000?&logo=Git"></img>
+<img src="https://img.shields.io/badge/-Jira-000?&logo=Jira"></img>
+<img src="https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code"></img>
 <br>
+
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dsereycamus&theme=light" />
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dsereycamus&show_icons=true&theme=light&locale=en" alt="anii693" /></p>
