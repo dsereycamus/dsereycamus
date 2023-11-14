@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Postman-FF6C37?&logo=PostmanColor=white"></img>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual-Studio-CodeColor=white"></img>
 <br>
