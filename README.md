@@ -24,6 +24,7 @@
 <h2>Languages and Tools💻🛠</h2>
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-ExpressJS-000000?logo=Express&logoColor=white"></img>
