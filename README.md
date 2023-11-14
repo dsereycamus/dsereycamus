@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Connect with me on
+<h2 align="center">Get in Touch! 📬</h2>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/dserey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
