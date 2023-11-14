@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual-Studio-CodeColor=white"></img>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white""></img>
 <br>
 
 <h2>GitHub Stats</h2>
