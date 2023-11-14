@@ -39,7 +39,7 @@
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dsereycamus&theme=light" />
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dsereycamus&show_icons=true&theme=light&locale=en"/></p>
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dsereycamus&show_icons=true&theme=light&locale=en&rank_icon=github"/></p>
 
 <!--   
 <a href="mailto:dsereycamus@gmail.com"><img src="https://img.shields.io/badge/-dsereycamus@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
