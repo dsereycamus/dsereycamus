@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Get in Touch! 📬</h2>
-<br>	
+<br>
 <a target="_blank" href="https://www.linkedin.com/in/dserey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:dsereycamus@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
+<a target="_blank" href=""
+><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=Github&logoColor=white"></img></a>
+
+   
 <!--   
 **Github Stats:**
 
