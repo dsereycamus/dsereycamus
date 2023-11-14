@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <!--
 **dsereycamus/dsereycamus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h2 align="center">Get in Touch! 📬</h2>
 <br>
 <p align="center">
