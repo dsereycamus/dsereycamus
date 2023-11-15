@@ -1,6 +1,6 @@
 <h1 align="center"> Hello Fellow < Developers/ >! 💕 </h1>
 <h2> About Me </h2>
-<img width="30%" align="right" alt="Github" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/> 
+<img width="30%" align="right" alt="Github" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNrOHV1NnJldHF4YzljeTh3NDdkYTVjbzlvdTZyNjkzbzdqZGdrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZvdMvotcDUKTrBI2w5/giphy.gif"/> 
 <div><p>Hi! My name is Daniela Serey.Thank you for taking the time to view my GitHub Profile, welcome to my world</p>
 <p> Full Stack JavaScript | Ingeniera en administración | Huertera</p>
 
