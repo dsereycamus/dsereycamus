@@ -10,7 +10,7 @@
 
 <br>
 <h2>Get in Touch! 📬</h2>
-<p>
+<p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/dserey/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:dsereycamus@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
@@ -22,19 +22,25 @@
 </p>
 
 <h2>Languages and Tools💻🛠</h2>
+<p align="center">
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></img>
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></img>
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Miro-050038?style=for-the-badge&logo=miro&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white""></img>
+</p>
 <br>
 
 <h2>GitHub Stats</h2>
