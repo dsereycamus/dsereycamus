@@ -6,7 +6,7 @@
 
 👩🏼‍💻 I’m currently learning JavaScript, MongoDB and GitHub
   
-🌱 Fun fact:I like plants and I'm a mother of seven cats🐈‍⬛
+🌱 Fun fact:I love plants and I'm a mother of seven cats🐈‍⬛
 
 <br>
 <h2>Get in Touch! 📬</h2>
