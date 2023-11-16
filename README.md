@@ -24,22 +24,22 @@
 <h2>Languages and Tools💻🛠</h2>
 <p align="center">
 <a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26"></img></a>
-<img src="https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6"></img>
-<img src="https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3"></img>
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"></img>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6"></img></a>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3"></img></a>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"></img></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=47A248"></img>
-<img src="https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=61DAFB"></img>
-<img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"></img>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=47A248"></img></a>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white"></img></a>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=61DAFB"></img></a>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"></img></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032"></img>
-<img src="https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=FF6C37"></img>
-<img src="https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC"></img>
-<img src="https://img.shields.io/badge/-Miro-000000?style=for-the-badge&logo=miro&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC""></img>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032"></img></a>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=FF6C37"></img></a>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC"></img></a>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/-Miro-000000?style=for-the-badge&logo=miro&logoColor=white"></img></a>
+<a target="_blank" href="https://github.com/dsereycamus"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC""></img></a>
 </p>
 <br>
 
