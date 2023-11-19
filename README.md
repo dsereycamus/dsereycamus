@@ -1,4 +1,7 @@
-<h1 align="center"> Hello Fellow < Developers/ >!</h1>
+<h1 align="center"> Hello Fellow < Developers/ >!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=georgia&duration=3500&pause=1000&center=true&color=8F8F8F&random=false&width=435&lines=Full+Stack+Developer;Ingeniera+en+administraci%C3%B3n;Always+learning+new+things" /></a>
+<hr/>
 <h2> About Me </h2>
 <img width="30%" align="right" alt="Github" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNrOHV1NnJldHF4YzljeTh3NDdkYTVjbzlvdTZyNjkzbzdqZGdrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZvdMvotcDUKTrBI2w5/giphy.gif"/> 
 <div><p>Hi! My name is Daniela Serey.Thank you for taking the time to view my GitHub Profile.Welcome to my world👩‍💻</p>
