@@ -1,4 +1,5 @@
-<h1 align="center"> Hello Fellow < Developers/ >!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+  <h1 align="center"> Hello Fellow < Developers/ >!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=georgia&duration=3500&pause=1000&center=true&color=8F8F8F&random=false&width=435&lines=Full+Stack+Developer;Ingeniera+en+administraci%C3%B3n;Always+learning+new+things" /></a>
 <hr/>
@@ -51,13 +52,7 @@
 &nbsp;<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dsereycamus&show_icons=true&theme=light&locale=en&rank_icon=github"/></p>
 
 <!--   
-<a href="mailto:dsereycamus@gmail.com"><img src="https://img.shields.io/badge/-dsereycamus@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-**Github Stats:**
-<p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsereycamus&count_private=true&theme=ligth">
- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+profile;Full+Stack+Developer;Love+to+learn+new+stuffs..<3"></a>
-</p>
+<h1 align="center"> Hello Fellow < Developers/ >!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>-->
    
 
