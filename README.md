@@ -1,12 +1,12 @@
 <h1 align="center"> Hello Fellow < Developers/ >!</h1>
 <h2> About Me </h2>
 <img width="30%" align="right" alt="Github" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNrOHV1NnJldHF4YzljeTh3NDdkYTVjbzlvdTZyNjkzbzdqZGdrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZvdMvotcDUKTrBI2w5/giphy.gif"/> 
-<div><p>Hi! My name is Daniela Serey.Thank you for taking the time to view my GitHub Profile, welcome to my world</p>
+<div><p>Hi! My name is Daniela Serey.Thank you for taking the time to view my GitHub Profile.Welcome to my world👩‍💻</p>
 <p> Full Stack JavaScript | Ingeniera en administración | Huertera</p>
 
 👩🏼‍💻 I’m currently learning JavaScript, MongoDB and GitHub
   
-🌱 Fun fact:I love plants and I'm a mother of seven cats🐈‍⬛
+🌱 Fun fact: I love plants and I'm a mother of seven cats🐈‍⬛
 
 <br>
 <h2>Get in Touch! 📬</h2>
